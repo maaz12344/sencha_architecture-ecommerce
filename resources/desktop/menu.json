@@ -1,0 +1,53 @@
+{
+  "leaf": false,
+  "children": [
+    {
+      "text": "Dashboard",
+      "iconCls": "x-fa fa-home",
+      "xtype": "homeview",
+      "leaf": true
+    },
+    {
+      "text": "Products",
+      "iconCls": "x-fa fa-cube",
+      "xtype": "productsview",
+      "leaf": true
+    },
+    {
+      "text": "Categories",
+      "iconCls": "x-fa fa-list",
+      "xtype": "categoriesview",
+      "leaf": true
+    },
+    {
+      "text": "Inventory",
+      "iconCls": "x-fa fa-archive",
+      "xtype": "inventoryview",
+      "leaf": true
+    },
+    {
+      "text": "Orders",
+      "iconCls": "x-fa fa-shopping-cart",
+      "xtype": "ordersview",
+      "leaf": true
+    },
+    {
+      "text": "Customers",
+      "iconCls": "x-fa fa-users",
+      "xtype": "customersview",
+      "leaf": true
+    },
+    {
+      "text": "Promotions",
+      "iconCls": "x-fa fa-tags",
+      "xtype": "promotionsview",
+      "leaf": true
+    },
+    {
+      "text": "Settings",
+      "iconCls": "x-fa fa-cog",
+      "xtype": "settingsview",
+      "leaf": true
+    }
+  ]
+}
